@@ -32,9 +32,9 @@ This project was built collaboratively by our team. Responsibilities were divide
 2. Navigate to the project directory.
 
 3. Compile all the source files together using g++:
-    '''bash
+    ```bash
     g++ main.cpp InventoryManager.cpp RequestQueue.cpp -o relief_system
 
 4. Run the compiled executable:
-    '''bash
+    ```bash
     ./relief_system
