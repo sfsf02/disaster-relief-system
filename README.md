@@ -8,7 +8,7 @@ This project was built collaboratively by our team. Responsibilities were divide
 
 * **[Heritier](https://github.com/Her1t1er)** (Person A - Inventory Manager): Implemented the array-based tracking system for available supplies and the logic to safely deduct inventory as requests are fulfilled.
 * **[Yvonne](https://github.com/YvonneMukabera)** (Person B - Queue Master): Implemented the `ReliefRequest` data structure and the C++ `std::priority_queue` to automatically sort incoming requests by severity level (1-10).
-* **[Mustafa](https://github.com/buster_call_Root)** (Person C - System Integrator): Designed the main execution loop, integrated the inventory and queue modules, and built the final reporting mechanism.
+* **[Mustafa](https://github.com/sfsf02)** (Person C - System Integrator): Designed the main execution loop, integrated the inventory and queue modules, and built the final reporting mechanism.
 
 ## ⚙️ Core Features
 
