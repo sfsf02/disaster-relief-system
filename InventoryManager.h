@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include<ReliefRequest.h>
 
 class InventoryManager {
 private:

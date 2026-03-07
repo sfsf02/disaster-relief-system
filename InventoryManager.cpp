@@ -1,4 +1,7 @@
 #include <iostream>
+#include "InventoryManager.h"
+#include<ReliefRequest.h>
+
 using namespace std;
 
 class InventoryManager {
