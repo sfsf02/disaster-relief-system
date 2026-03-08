@@ -1,0 +1,5 @@
+Downtown,5,100,20,10
+Sector 4 Critical,10,200,100,50
+North Suburbs,2,50,5,0
+River District,8,150,50,20
+East Side,4,80,10,5
